@@ -1,0 +1,7 @@
+
+
+1. Toronto City Centre Hourly Weather Data 2017-2020
+https://www.kaggle.com/datasets/jasonzxho/toronto-city-centre-hourly-weather-data-20172020
+
+2. Crime in Toronto
+https://open.toronto.ca/dataset/major-crime-indicators/
